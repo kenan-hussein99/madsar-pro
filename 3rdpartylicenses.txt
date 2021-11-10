@@ -542,6 +542,9 @@ MIT
 ngx-sharebuttons
 MIT
 
+ngx-timeago
+MIT
+
 ngx-toast-notifications
 MIT
 
