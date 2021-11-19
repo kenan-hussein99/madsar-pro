@@ -50,5 +50,10 @@
   "store_control_panel": "Store control panel",
   "my_account": "My account",
   "my_purchases": "My purchases",
-  "account": "Account"
+  "account": "Account",
+  "followed_stores" : "Followed Stores",
+  "near_stores": "Nearby Stores",
+  "new_stores" : "New Stores",
+  "near_items": "Nearby Items",
+  "random_items" : "Random Items"
 }

@@ -51,5 +51,9 @@
   "my_account": "حسابي",
   "my_purchases": "مشترياتي",
   "account": "الحساب",
-  "": ""
+  "followed_stores" : "متاجر متابعة",
+  "near_stores": "متاجر قريبة",
+  "new_stores" : "أحدث المتاجر",
+  "near_items": "منتجات قريبة",
+  "random_items" : "متفرقات"
 }
