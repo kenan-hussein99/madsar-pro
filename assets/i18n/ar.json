@@ -55,5 +55,16 @@
   "near_stores": "متاجر قريبة",
   "new_stores" : "أحدث المتاجر",
   "near_items": "منتجات قريبة",
-  "random_items" : "متفرقات"
+  "random_items" : "متفرقات",
+  "login" : "تسجيل الدخول",
+  "user_placeholder" : "الإيميل أو رقم الهاتف",
+  "password_placeholder" : "كلمة المرور",
+  "click_to_register" : "لا تملك حساب؟ اضغط هنا لإنشاء حساب جديد",
+  "create_new_account" : "إنشاء حساب جديد",
+  "user_name" : "اسم المستخدم",
+  "confirm_password" : "تأكيد كلمة المرور",
+  "create_account" :"إنشاء الحساب",
+  "have_account" : "لديك حساب؟ اضغط هنا لتسجيل الدخول",
+  "love" : "إعجاب",
+  "visit" : "زيارة"
 }

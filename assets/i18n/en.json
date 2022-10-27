@@ -37,7 +37,7 @@
   "edit_profile": "Edit",
   "stores_from_category": "Stores from this category",
   "highest_rated_stores": "Highest rated stores",
-  "masdar_market_platform" : "Masdar Market Platform",
+  "masdar_market_platform" : "Masdar Market",
   "log_in": "Log in",
   "register": "Register",
   "masdar_market": "Masdar Market",
@@ -55,5 +55,17 @@
   "near_stores": "Nearby Stores",
   "new_stores" : "New Stores",
   "near_items": "Nearby Items",
-  "random_items" : "Random Items"
+  "random_items" : "Random Items",
+  "login" : "Login",
+  "user_placeholder" : "Email or Phone",
+  "password_placeholder" : "Password",
+  "click_to_register" : "Don't have an account? Click here to register",
+  "create_new_account" : "Create new account",
+  "user_name" : "User name",
+  "confirm_password" : "Confirm password",
+  "create_account" :"Create My Account",
+  "have_account" : "do you have an account? Click here to register",
+  "love" : "love",
+  "visit" : "visits"
+
 }
