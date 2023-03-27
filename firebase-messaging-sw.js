@@ -14,4 +14,10 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 
+const registration = await navigator.serviceWorker.register(
+    "serviceworker.js",
+    {
+        scope: "./",
+    }
+);
 const messaging = firebase.messaging();
