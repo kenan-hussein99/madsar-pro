@@ -59,7 +59,7 @@
   "login" : "تسجيل الدخول",
   "user_placeholder" : "الإيميل أو رقم الهاتف",
   "password_placeholder" : "كلمة المرور",
-  "click_to_register" : "اضغط هنا لإنشاء حساب جديد بخطوة واحدة",
+  "click_to_register" : "اضغط هنا لإنشاء حساب جديد",
   "not_own_account": "لا تملك حساب؟",
   "create_new_account" : "إنشاء حساب جديد",
   "user_name" : "اسم المستخدم",
@@ -70,6 +70,7 @@
   "have_account" : "لديك حساب؟",
   "click_to_login" : "اضغط هنا لتسجيل الدخول",
   "love" : "إعجاب",
+  "login_way" : "طريقة تسجيل الدخول",
   "visit" : "زيارة",
   "password_is_short": "كلمة المرور قصيرة جداً",
   "email" : "الإيميل",
@@ -78,5 +79,6 @@
   "wrong_email_format": "الرجاء إدخال إيميل صحيح",
   "wrong_phone_format": "الرجاء إدخال رقم هاتف صحيح",
   "login_title": "تسجيل الدخول",
-  "login_sub_title": "يجب تسجيل الدخول للقيام بهذا الإجراء"
+  "login_sub_title": "يجب تسجيل الدخول للقيام بهذا الإجراء",
+  "plz_fill_data": "الرجاء إدخال البيانات التالية"
 }

@@ -17,7 +17,7 @@
   "user_email_hint" : "Also, for restore password and get info",
   "publish" : "Publish",
   "items_nav" : "Items",
-  "mobile" : "phone",
+  "mobile" : "Phone",
   "not_own_account": "Don't have an account?",
   "stores_nav" : "Stores",
   "posts_nav" : "Posts",
@@ -71,6 +71,7 @@
   "have_account" : "Do you have an account? ",
   "click_to_login" : "Click here to register",
   "love" : "love",
+  "login_way" : "Loin by",
   "visit" : "visits",
   "password_is_short": "Password is very short",
   "email" : "Email",
@@ -78,5 +79,6 @@
   "wrong_email_format": "Wrong email format",
   "wrong_phone_format": "Wrong phone format",
   "login_title": "Login",
-  "login_sub_title": "Login required"
+  "login_sub_title": "Login required",
+  "plz_fill_data": "Please fill your info"
 }
