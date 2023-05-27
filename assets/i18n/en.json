@@ -80,5 +80,8 @@
   "wrong_phone_format": "Wrong phone format",
   "login_title": "Login",
   "login_sub_title": "Login required",
-  "plz_fill_data": "Please fill your info"
+  "plz_fill_data": "Please fill your info",
+  "home_main_title": "E-Menu? E-Store?",
+  "home_1th-card_title" : "Start for free",
+  "home_1th-card_sub_title" :"Not just an E-Menu, a whole E-Store specific for you"
 }
