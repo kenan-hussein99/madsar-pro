@@ -71,6 +71,7 @@
   "have_account" : "Do you have an account? ",
   "click_to_login" : "Click here to register",
   "love" : "love",
+  "add_product": "Add",
   "login_way" : "Loin by",
   "visit" : "visits",
   "password_is_short": "Password is very short",
